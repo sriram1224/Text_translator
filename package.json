@@ -2,7 +2,7 @@
   "name": "translatorapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sriram1224.github.io/translator",
+  "homepage": "https://sriram1224.github.io/Text_translator/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
